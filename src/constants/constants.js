@@ -22,6 +22,17 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Ma Météo',
+    description:"Application pour la Météo",
+    image: '/images/meteo.png',
+    presta: 'B.Youcef',
+    client: 'B.Youcef',
+    role: 'FullStack - DevOps',
+    tags: ['React', 'JavaScript'],
+    link: 'https://youcefbelaidi.netlify.app/',
+    id: 2,
+  },
+  {
     title: 'Smart Tracer',
     description: "Smart Tracer est une application PWA qui a pour but de faciliter le nettoyage et la désinfection des trains et stations de la RATP. Elle a pour but également de suivre en temps réel les contrôles effectués pour pouvoir détecter les anomalies des trains et garder une traçabilité des actions et réparations faites ou à faire.",
       image: '/images/ratp.jpg',
@@ -30,7 +41,7 @@ export const projects = [
       role: 'FullStack',
       tags: ['React', 'Node Js', 'PostgreSQL', 'Express'],
       link: '',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Sesame',
@@ -41,7 +52,7 @@ export const projects = [
     role: 'FullStack - DevOps',
     tags: ['Angular', 'Node Js', 'AWS Serverless - Amplify'],
     link: '',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Camera Control',
@@ -52,7 +63,7 @@ export const projects = [
     role: 'DevOps',
     tags: ['AWS', 'Terraform'],
     link: '',
-    id: 3,
+    id: 5,
   },
 ];
 
