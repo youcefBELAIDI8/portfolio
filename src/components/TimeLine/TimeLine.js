@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>Qui suis-je ?</SectionTitle>
       <SectionText>
-      Ingénieur en télécom et réseaux de formation et Software engineer au sein de l'entreprise Capgemini, leader mondial dans le secteur de L'IT. Youcef a réalisé plusieurs applications « Client/Serveur » en utilisant les technologies modernes telles que Node Js, React ou encore Angular. 
+      Ingénieur en télécom et réseaux de formation et Software engineer au sein de l'entreprise Capgemini, leader mondial dans le secteur de L'IT, Youcef a réalisé plusieurs applications « Client/Serveur » en utilisant les technologies modernes telles que Node Js, React ou encore Angular. 
       Il a également mis en production plusieurs applications sur machines virtuelles, Cloud AWS ou encore des hébergeurs comme Netlify et Heroku. Curieux et Volontaire, Youcef est prêt à relever les défis qui lui seront confiés.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>

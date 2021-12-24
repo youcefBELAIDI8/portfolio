@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      J'ai eu la chance de travailler avec plusieurs technologies durant mon parcours et ci-dessous quelques-unes
+      J'ai eu la chance de travailler avec plusieurs technologies durant mon parcours et ci-dessous quelques-unes qui me passionnent
     </SectionText>
     <List>
       <ListItem>
@@ -30,7 +30,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End - SGBD</ListTitle>
           <ListParagraph>
-            Node Js - Java <br />
+            Node Js <br />
             SQL - PostgreSQL - MongoDB
           </ListParagraph>
         </ListContainer>
