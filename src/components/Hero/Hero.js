@@ -9,8 +9,8 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-        Bienvenue sur <br />
-          mon site personnel
+          Bienvenue sur <br />
+          le site personnel de Youcef BELAIDI
         </SectionTitle>
         <SectionText>
         Sur ce site web, vous allez decouvrir en brief qui je suis, ce que j'ai réalisé comme projets et les outils ainsi que les technologies qui me passionnent. 
