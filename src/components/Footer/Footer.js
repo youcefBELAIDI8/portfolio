@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>"Dans un an, vous souhaiterai avoir commencé aujourd'hui."<br/><b>Karen Lamb</b></Slogan> 
+          <Slogan>"Dans un an, vous souhaiterez avoir commencé aujourd'hui."<br/><b>Karen Lamb</b></Slogan> 
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://www.linkedin.com/in/youcef-belaidi-83a975143/" target="_blank">
