@@ -12,7 +12,7 @@ export const projects = [
   },
   {
     title: 'Camera Control',
-    description: "L'ojectif est de contrôler la qualité de production de voitures grâce à des données captées par des caméras et un traitement via une intelligence artificielle",
+    description: "L'ojectif est de contrôler la qualité de production de voitures grâce à des données captées par des caméras et un traitement via une intelligence artificielle.",
     image: '/images/PSA.jpg',
     presta: 'Capgemini',
     client: 'Group PSA - Peugeot',
@@ -34,7 +34,7 @@ export const projects = [
   },
   {
     title: 'TabibRDV',
-    description: "TabibRDV - plateforme de prise de rendez-vous en ligne chez les professionnel(le)s de santé. Projet fait en collaboration avec M.Naim",
+    description: "TabibRDV - plateforme de prise de rendez-vous en ligne chez les professionnel(le)s de santé. Projet fait en collaboration avec M.Naim.",
       image: '/images/tabibrdv.png',
       presta: 'B.Youcef - M.Naim',
       client: 'B.Youcef - M.Naim',
@@ -45,7 +45,7 @@ export const projects = [
   },
   {
     title: 'Mon Projet',
-    description:"Projet à vendre - plateforme de gestion de projets adaptée à differents secteurs : BTP, IT etc... test authentication => identifiant: youcef - mdp: youcef",
+    description:"Projet à vendre - plateforme de gestion de projets adaptée à differents secteurs : BTP, IT etc... Pour tester l'application, veuillez utiliser l'identifiant \"youcef\" et le mot de passe \"youcef\".",
     image: '/images/maruche.png',
     presta: 'B.Youcef',
     client: 'B.Youcef',
@@ -56,7 +56,7 @@ export const projects = [
   },
   {
     title: 'Ma Météo',
-    description:"Application pour la Météo",
+    description:"Application pour la Météo.",
     image: '/images/meteo.png',
     presta: 'B.Youcef',
     client: 'B.Youcef',

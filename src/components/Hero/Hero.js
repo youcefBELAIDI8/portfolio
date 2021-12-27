@@ -10,7 +10,7 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Bienvenue sur <br />
-          le site personnel de Youcef BELAIDI
+          le site personnel de Youcef BELAIDI - Ingénieur logiciel
         </SectionTitle>
         <SectionText>
         Sur ce site web, vous allez decouvrir en bref qui je suis, ce que j'ai réalisé comme projets et les outils ainsi que les technologies qui me passionnent. 
