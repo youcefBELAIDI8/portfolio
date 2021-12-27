@@ -44,6 +44,7 @@ const Timeline = () => {
 
   return (
     <Section id="about">
+      <SectionDivider /><br/><br/>
       <SectionTitle>Qui suis-je ?</SectionTitle>
       <SectionText>
       Ingénieur en télécoms et réseaux de formation et Software engineer au sein de l'entreprise Capgemini, leader mondial dans le secteur de L'IT, j'ai réalisé plusieurs applications « Client/Serveur » en utilisant les technologies modernes telles que Node Js, React et Angular. 
@@ -113,7 +114,6 @@ const Timeline = () => {
           );
         })}
       </CarouselButtons>
-      <SectionDivider />
     </Section>
   );
 };
