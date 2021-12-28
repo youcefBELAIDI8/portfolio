@@ -13,7 +13,7 @@ const Hero = (props) => (
           le site personnel de Youcef BELAIDI - Ingénieur logiciel
         </SectionTitle>
         <SectionText>
-        Sur ce site web, vous allez decouvrir en bref qui je suis, ce que j'ai réalisé comme projets et les outils ainsi que les technologies qui me passionnent. 
+        Sur ce site web, vous allez decouvrir en bref qui je suis, ce que j'ai réalisé comme projets, les outils ainsi que les technologies qui me passionnent. 
         </SectionText>
         <Button onClick={props.handleClick}><a href='#about'>Plus d'information</a></Button>
       </LeftSection>
