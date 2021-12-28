@@ -9,7 +9,7 @@ const Projects = () => (
     <SectionDivider />
     <SectionTitle main>Projets</SectionTitle>
     <SectionText>
-       L'accès à certains de ces projets ne sera pas possible pour des raisons de confidentialité
+       L'accès à certains de ces projets ne sera pas possible pour des raisons de confidentialité.
     </SectionText>
     <GridContainer>
       {projects.map((p, i) => {
