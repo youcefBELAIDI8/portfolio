@@ -4,7 +4,7 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 2020, text: 'Diplôme d\'ngénieur en télécoms et réseaux'},
+  { number: 2020, text: 'Diplôme d\'ngénieur en télécoms et réseaux informatiques'},
   { number: 2020, text: 'Certification Application Security and Secure Coding', },
   { number: 2020, text: 'TOEIC - 850 PTS', },
   { number: 2021, text: 'Certification Node JS Checkmarx',},

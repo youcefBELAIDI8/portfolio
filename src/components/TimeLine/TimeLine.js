@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionDivider /><br/><br/>
       <SectionTitle>Qui suis-je ?</SectionTitle>
       <SectionText>
-      Ingénieur en télécoms et réseaux de formation et Software engineer au sein de l'entreprise Capgemini, leader mondial dans le secteur de L'IT, j'ai réalisé plusieurs applications « Client/Serveur » en utilisant les technologies modernes telles que Node Js, React et Angular. 
+      Ingénieur en télécoms et réseaux informatiques de formation et Software engineer au sein de l'entreprise Capgemini, leader mondial dans le secteur de L'IT, j'ai réalisé plusieurs applications « Client/Serveur » en utilisant les technologies modernes telles que Node Js, React et Angular. 
       J'ai également mis en production plusieurs applications sur machines virtuelles, Cloud AWS ou encore des hébergeurs comme Netlify et Heroku. Curieux et volontaire, je suis prêt à relever les défis qui me seront confiés.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
