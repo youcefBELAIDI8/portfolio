@@ -30,7 +30,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End - SGBD</ListTitle>
           <ListParagraph>
-            Node Js <br />
+            Node Js - Java<br />
             SQL - PostgreSQL - MongoDB
           </ListParagraph>
         </ListContainer>
